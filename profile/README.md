@@ -46,7 +46,7 @@
 > Última atualização: 24 de setembro de 2026
 
 ### 01 — Sobre o sistema
-A Yoshizawa é um bot multifuncional para WhatsApp, desenvolvido pela **@mgzawa7x**, utilizando a biblioteca `@zapo.js`.
+A Yoshizawa é um bot multifuncional para WhatsApp, desenvolvido pelo **@mgzawa7x**, utilizando a biblioteca `@zapo.js`.
 
 > ⚠️ **Atenção:** O bot está em fase Beta e recebe atualizações diárias. O uso no privado foi permanentemente desativado.
 
