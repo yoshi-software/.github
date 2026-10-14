@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/mgzawa7x/yoshizawa@main/HyU.jpg" width="180" alt="Yoshizawa"/>
   
-  <p><strong>Yoshizawa</strong></p>
+  <p><strong>© Yoshizawa Softwares</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Feito%20com-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
