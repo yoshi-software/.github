@@ -6,10 +6,11 @@
   <p><strong>Yoshizawa Softwares</strong></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Feito%20com-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Feito%20com-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1ria-red?style=for-the-badge"/>
   </p>
@@ -33,62 +34,8 @@
 
 <br>
 
----
-
-## 📜 Termos de Uso
-
-> Última atualização: 24 de setembro de 2026
-
-### 01 — Sobre o sistema
-A Yoshizawa é um bot multifuncional para WhatsApp, desenvolvido pelo **@mgzawa7x**, utilizando a biblioteca `@zapo.js`.
-
-> ⚠️ **Atenção:** O bot está em fase Beta e recebe atualizações diárias. O uso no privado foi permanentemente desativado.
-
-### 02 — Aceitação dos termos
-Ao utilizar a Yoshizawa Bot, você concorda integralmente com estes termos:
-- Uso exclusivo para fins lícitos e em conformidade com as políticas do WhatsApp
-- Proibido uso para atividades ilegais, spam ou violação de direitos
-- Responsabilidade total do usuário pelo conteúdo e interações
-- Suspensão imediata em caso de violação destes termos
-
-### 03 — Sistema de bots filhos
-Oferecemos a função de **Bot Filho** — uma bifurcação do bot principal que pode ser conectado ao seu próprio número.
-
-**Responsabilidade:** O usuário contratante é **totalmente responsável** pelo bot filho e seu uso. O criador original apenas fornece o sistema e não supervisiona sua utilização.
-
-### 04 — Sistema VIP e loja
-O sistema de VIPs é **mensal** (não mais vitalício). Todos os preços de compras, aluguéis e serviços devem ser consultados diretamente pelo comando:
-
-```
-!loja
-```
-
-### 05 — Isenção de responsabilidade
-O criador original **se responsabiliza exclusivamente pelo sistema sob sua posse**. Não nos responsabilizamos por:
-- Uso indevido pelos usuários
-- Conteúdo gerado ou acessado através do bot
-- Atividades em grupos ou bots filhos
-- Danos diretos ou indiretos decorrentes do uso
-
-### 06 — Propriedade e privacidade
-O código-fonte, funcionalidades e identidade são propriedade exclusiva do desenvolvedor. Processamos dados mínimos e temporários, exclusivamente para execução de comandos, em conformidade com a LGPD.
-
-### 07 — Contato
-Para dúvidas, sugestões ou suporte técnico:
-
-📧 **yoshizawa.softwares@proton.me**
-
-### 08 — Isenção final
-A Yoshizawa é fornecida "no estado em que se encontra". O desenvolvedor se isenta de qualquer responsabilidade por mau uso, danos ou consequências adversas decorrentes de sua utilização. O uso é de inteira responsabilidade do usuário.
-
-📄 **Versão completa:** [yoshi-termos.netlify.app](https://yoshi-termos.netlify.app)
-
----
-
-<br>
-
 <div align="center">
-  <sub>© 2026 Yoshizawa · Desenvolvida por @mgzawa7x · Todos os direitos reservados.</sub>
+  <sub>© 2026 Yoshizawa Softwares · Desenvolvida por @mgzawa7x · Todos os direitos reservados.</sub>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e50914&height=120&section=footer"/>
