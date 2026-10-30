@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa0ce&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/mgzawa7x/yoshizawa@main/iyF.jpg" width="180" alt="Yoshizawa Softwares"/>
+  <img src="https://cdn.jsdelivr.net/gh/mgzawa7x/yoshizawa@main/khR.jpg" width="180" alt="Yoshizawa Softwares"/>
   
   <p><strong>Yoshizawa Softwares</strong></p>
 
