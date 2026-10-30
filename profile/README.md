@@ -21,7 +21,7 @@
 
   <p>
     <a href="https://whatsapp.com/channel/0029Vb8Fo4Q3bbVBGI4Ke513">
-      <img src="https://img.shields.io/badge/WhatsApp-YOSHIZAWA%20ZX-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WhatsApp-YOSHIZAWA%20ESM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
     <a href="https://www.themoviedb.org">
       <img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
